@@ -1,4 +1,4 @@
-# chatbotprojec
+# chatbotproject
 # Menstruation Chatbot Project
 
 This project implements a simple chatbot that answers questions related to menstruation using the OpenAI GPT-3.5 Turbo model.
